@@ -22,7 +22,7 @@
     $server = "localhost";
     $username = "root";
     $password = "";
-    $database = "bank";
+    $database = "rahul bank website";
     // Creating a database connection
     $con = mysqli_connect($server, $username, $password, $database);
 
